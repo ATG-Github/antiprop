@@ -1,2 +1,2 @@
 # antiprop
-ired of idiots spawning stupid objects all over? Install this highly optimized prop blacklist/remover!
+Tired of idiots spawning stupid objects all over? Install this highly optimized prop blacklist/remover!
